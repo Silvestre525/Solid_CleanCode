@@ -29,3 +29,9 @@ tiempo adicional en la transferencia de codigo.
 La mala calidad de software siempre la acaba pagando alguien ya sea el cliente, el provedor con recursos o el mismo deesarrollador dedicando tiempo a refactorizar el codigo
 
 Trabajar con flow came case para nuestras variables solo en python snakecase
+
+Me quede en ejercicios con funciones Udemy
+
+
+USUARIO: siliconmnes@gmail.com
+CONTRASEÑA: siliconmisiones
