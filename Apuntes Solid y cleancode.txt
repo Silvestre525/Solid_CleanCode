@@ -1,0 +1,29 @@
+Apuntes Solid y cleancode
+
+1_Instalamos
+Node
+npm install --global yarn abriendo el cmd como administrador
+TypeScript importer extencion 
+
+2_Clonamos el siguiente repositorio 
+https://github.com/Klerith/clean-course.git
+yarn install
+ó
+npm install
+
+3_
+yarn dev
+ó
+npm run dev
+---------------------------------------------------------------------------------
+
+Deuda tecnica
+es la falta de calidad en el codigo que escribimos, que genera una deuda que repercutira en costos futuros
+
+Costos economicos 
+tiempo en realizar mantenimientos
+en refactorizar codigo 
+en comprender codigo
+tiempo adicional en la transferencia de codigo.
+
+La mala calidad de software siempre la acaba pagando alguien ya sea el cliente, el provedor con recursos o el mismo deesarrollador dedicando tiempo a refactorizar el codigo
